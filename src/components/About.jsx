@@ -39,8 +39,8 @@ function About() {
             Education & Training
           </h2>
           <p className="text-gray-700">
-            I have completed BE (Computer Science & Eng) at PDA College of
-            Engineering, Gulbarga, Karnataka. Currently working as Selection
+            I have completed BE(Mech) at P.S College of
+            Engineering, Mandya, Karnataka. MTECH in CIM at Sahyadri College of Engineering. And currently working as Selection
             Grade Lecturer/HOD in KPT Mangalore, Karnataka.
           </p>
         </div>
@@ -69,11 +69,9 @@ function About() {
             Professional Experience
           </h2>
           <p className="text-gray-700">
-            Joined the CSE department as a lecturer in 1995 and worked for 26
-            years at Government Women's Polytechnic, Bondel, Mangalore.
-            Currently serving as the Head of the Computer Science and
-            Engineering Department at Karnataka Govt. Polytechnic since the
-            past 4 years.
+            Joined the MECH department as a lecturer from 1994 to 2021 at Karnataka Government Polytechnic, Kadrihills, Mangalore.
+            And from 2021 to 2024 served as principal at Government Polytechnic Udupi, Udupi.
+            Currently serving as the Head of the Mechanical Engineering Department at Karnataka Govt. Polytechnic, Mangalore.
           </p>
         </div>
 

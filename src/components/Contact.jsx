@@ -31,7 +31,7 @@ const Contact = () => {
               </div>
               <div>
                 <p className="text-sm text-gray-400">EMAIL</p>
-                <p className="text-lg">jayalmoily09@gmail.com</p>
+                <p className="text-lg">jayalmoily29@gmail.com</p>
               </div>
             </div>
             <div className="flex items-center space-x-4">
@@ -40,7 +40,7 @@ const Contact = () => {
               </div>
               <div>
                 <p className="text-sm text-gray-400">LOCATION</p>
-                <p className="text-lg">Bhatrakumeru, Padavinangady Mangalore 575008.</p>
+                <p className="text-lg">Omkar, Gurunagar maryhill, Konchady Post, Mangalore.</p>
               </div>
             </div>
           </div>
